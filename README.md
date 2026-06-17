@@ -10,7 +10,7 @@
 
 <br/>
 
-![version](https://img.shields.io/badge/vers%C3%A3o-1.0.1-E6007A?style=for-the-badge)
+![version](https://img.shields.io/badge/vers%C3%A3o-1.0.2-E6007A?style=for-the-badge)
 ![platform](https://img.shields.io/badge/Windows-0a0a0a?style=for-the-badge&logo=windows&logoColor=white)
 ![price](https://img.shields.io/badge/gr%C3%A1tis-free-3FCF8E?style=for-the-badge)
 
