@@ -10,6 +10,10 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 
 ## 🇧🇷 Português
 
+### v1.0.2
+- 🔄 **Atualizações automáticas mais visíveis**: banner com o **progresso do download** e um aviso **pulsante** quando a nova versão está pronta para instalar.
+- 🧾 **Logs de atualização** para facilitar diagnóstico de problemas.
+
 ### v1.0.1 — Primeira versão pública
 
 #### 🎨 Interface
@@ -43,6 +47,10 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 ---
 
 ## 🇺🇸 English
+
+### v1.0.2
+- 🔄 **More visible auto-updates**: banner showing **download progress** and a **pulsing** prompt when the new version is ready to install.
+- 🧾 **Update logs** to make troubleshooting easier.
 
 ### v1.0.1 — First public release
 
