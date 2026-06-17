@@ -10,6 +10,12 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 
 ## 🇧🇷 Português
 
+### v1.0.3
+- 🛟 **Reportar erro** em cada jogo: avise quando algo não estiver funcionando.
+- 💡 **Sugerir um jogo**: peça jogos novos direto pelo app.
+- 🛡️ **Painel Admin** (para administradores): receba e gerencie relatórios de erro e sugestões de jogos.
+- 🆓 **Plano Free**: até **3 Quests por dia** e **1 por vez** (planos pagos seguem ilimitados).
+
 ### v1.0.2
 - 🔄 **Atualizações automáticas mais visíveis**: banner com o **progresso do download** e um aviso **pulsante** quando a nova versão está pronta para instalar.
 - 🧾 **Logs de atualização** para facilitar diagnóstico de problemas.
@@ -47,6 +53,12 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 ---
 
 ## 🇺🇸 English
+
+### v1.0.3
+- 🛟 **Report a problem** on each game: let us know when something isn't working.
+- 💡 **Suggest a game**: request new games right from the app.
+- 🛡️ **Admin panel** (for admins): receive and manage error reports and game requests.
+- 🆓 **Free plan**: up to **3 Quests per day** and **1 at a time** (paid plans remain unlimited).
 
 ### v1.0.2
 - 🔄 **More visible auto-updates**: banner showing **download progress** and a **pulsing** prompt when the new version is ready to install.
