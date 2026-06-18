@@ -10,6 +10,10 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 
 ## 🇧🇷 Português
 
+### v1.1.1
+- 🎮 **+40 jogos novos** na biblioteca (ELDEN RING, Marvel Rivals, THE FINALS, Path of Exile 1/2, Black Myth: Wukong, Valheim, Lethal Company, R.E.P.O., Schedule I, Vampire Survivors e mais).
+- 🛠️ **Detecção corrigida** em vários jogos (caminho/executável certos para o Discord reconhecer).
+
 ### v1.1.0
 - 💎 **Gem Plus**: assinatura mensal (R$ 19,99) para **Quests ilimitadas** e **várias ao mesmo tempo**. Pagamento via **Pix, Boleto ou Cartão**.
 - 🔒 **Limite por dispositivo**: o limite do plano Free agora é vinculado à **máquina** — criar contas novas não contorna mais a cota diária.
@@ -58,6 +62,10 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 ---
 
 ## 🇺🇸 English
+
+### v1.1.1
+- 🎮 **+40 new games** in the library (ELDEN RING, Marvel Rivals, THE FINALS, Path of Exile 1/2, Black Myth: Wukong, Valheim, Lethal Company, R.E.P.O., Schedule I, Vampire Survivors and more).
+- 🛠️ **Fixed detection** for several games (correct path/executable so Discord recognizes them).
 
 ### v1.1.0
 - 💎 **Gem Plus**: monthly subscription (R$ 19.99) for **unlimited Quests** and **multiple at once**. Pay via **Pix, Boleto or Card**.
