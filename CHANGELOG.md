@@ -10,6 +10,11 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 
 ## 🇧🇷 Português
 
+### v1.1.0
+- 💎 **Gem Plus**: assinatura mensal (R$ 19,99) para **Quests ilimitadas** e **várias ao mesmo tempo**. Pagamento via **Pix, Boleto ou Cartão**.
+- 🔒 **Limite por dispositivo**: o limite do plano Free agora é vinculado à **máquina** — criar contas novas não contorna mais a cota diária.
+- 🐛 Correção que impedia iniciar a Quest em alguns casos.
+
 ### v1.0.3
 - 🛟 **Reportar erro** em cada jogo: avise quando algo não estiver funcionando.
 - 💡 **Sugerir um jogo**: peça jogos novos direto pelo app.
@@ -53,6 +58,11 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 ---
 
 ## 🇺🇸 English
+
+### v1.1.0
+- 💎 **Gem Plus**: monthly subscription (R$ 19.99) for **unlimited Quests** and **multiple at once**. Pay via **Pix, Boleto or Card**.
+- 🔒 **Per-device limit**: the Free plan limit is now bound to the **machine** — creating new accounts no longer bypasses the daily quota.
+- 🐛 Fixed an issue that prevented starting the Quest in some cases.
 
 ### v1.0.3
 - 🛟 **Report a problem** on each game: let us know when something isn't working.
