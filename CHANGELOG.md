@@ -10,6 +10,15 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 
 ## 🇧🇷 Português
 
+### v1.2.1
+- 🐛 **Correção**: os Application IDs do Discord agora vêm **embutidos por padrão** — a presença dos Aplicativos (FL Studio / After Effects) funciona no app instalado, sem precisar de configuração.
+
+### v1.2.0
+- 🎛️ **Nova seção "Aplicativos"**: ative o **FL Studio** e o **Adobe After Effects** e o Gem+ liga a presença no Discord sozinho sempre que você abrir o programa — e desliga quando fechar. O cartão mostra o **projeto aberto** e atualiza automaticamente ao trocar de projeto.
+- 🟢 **Roda em segundo plano**: ao fechar a janela, o Gem+ continua na bandeja mantendo a presença ativa.
+- 🚀 **Iniciar com o Windows**: abre sozinho ao ligar o PC. As duas opções ficam em **Configurações → Sistema** (ligadas por padrão).
+- 🎨 Tela de **Aplicativos** redesenhada, com as logos dos programas.
+
 ### v1.1.1
 - 🎮 **+40 jogos novos** na biblioteca (ELDEN RING, Marvel Rivals, THE FINALS, Path of Exile 1/2, Black Myth: Wukong, Valheim, Lethal Company, R.E.P.O., Schedule I, Vampire Survivors e mais).
 - 🛠️ **Detecção corrigida** em vários jogos (caminho/executável certos para o Discord reconhecer).
@@ -62,6 +71,15 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 ---
 
 ## 🇺🇸 English
+
+### v1.2.1
+- 🐛 **Fix**: the Discord Application IDs are now **bundled by default** — the Apps presence (FL Studio / After Effects) works on the installed app with no setup needed.
+
+### v1.2.0
+- 🎛️ **New "Apps" section**: enable **FL Studio** and **Adobe After Effects** and Gem+ turns on the Discord presence by itself whenever you open the program — and turns it off when you close it. The card shows the **open project** and updates automatically when you switch projects.
+- 🟢 **Runs in the background**: closing the window keeps Gem+ in the tray with the presence active.
+- 🚀 **Start with Windows**: opens automatically when the PC turns on. Both options live in **Settings → System** (on by default).
+- 🎨 **Redesigned Apps screen**, with the program logos.
 
 ### v1.1.1
 - 🎮 **+40 new games** in the library (ELDEN RING, Marvel Rivals, THE FINALS, Path of Exile 1/2, Black Myth: Wukong, Valheim, Lethal Company, R.E.P.O., Schedule I, Vampire Survivors and more).
