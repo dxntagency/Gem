@@ -10,6 +10,9 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 
 ## 🇧🇷 Português
 
+### v1.2.2
+- 🐛 **Correção**: o Gem+ passou a usar uma **porta interna dedicada**, evitando conflito com outros programas/serviços que ocupavam a porta usada antes — o que, em alguns casos, fazia o app abrir uma tela que não era a do Gem+.
+
 ### v1.2.1
 - 🐛 **Correção**: os Application IDs do Discord agora vêm **embutidos por padrão** — a presença dos Aplicativos (FL Studio / After Effects) funciona no app instalado, sem precisar de configuração.
 
@@ -71,6 +74,9 @@ Launcher para simular o tempo de execução de jogos e concluir missões do **Di
 ---
 
 ## 🇺🇸 English
+
+### v1.2.2
+- 🐛 **Fix**: Gem+ now uses a **dedicated internal port**, avoiding conflicts with other programs/services that used the previous port — which, in some cases, made the app open a screen that wasn't Gem+.
 
 ### v1.2.1
 - 🐛 **Fix**: the Discord Application IDs are now **bundled by default** — the Apps presence (FL Studio / After Effects) works on the installed app with no setup needed.
