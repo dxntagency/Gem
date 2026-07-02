@@ -10,6 +10,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 
 ## 🇧🇷 Português
 
+### v1.2.4
+- 🎮 **Novo jogo/app**: GearUP Booster adicionado à biblioteca.
+
 ### v1.2.3
 - 🎮 **Novos jogos**: Delta Force, Old School RuneScape e Grand Theft Auto VI (GTA 6).
 
@@ -77,6 +80,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 ---
 
 ## 🇺🇸 English
+
+### v1.2.4
+- 🎮 **New game/app**: GearUP Booster added to the library.
 
 ### v1.2.3
 - 🎮 **New games**: Delta Force, Old School RuneScape, and Grand Theft Auto VI (GTA 6).
