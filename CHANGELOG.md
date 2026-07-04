@@ -10,6 +10,11 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 
 ## 🇧🇷 Português
 
+### v1.2.5
+- 🐛 **Correção**: a tela de login não pisca mais na abertura do app pra quem já está autenticado (splash cobre a checagem de sessão).
+- 🔒 **Atualização obrigatória**: quando uma nova versão termina de baixar sozinha, o app agora exige reiniciar antes de continuar usando (em vez de só avisar num banner dispensável).
+- 🛡️ **Segurança**: fechada uma falha que permitia executar comandos no PC via requisições feitas por qualquer site aberto no navegador enquanto o Gem+ estava rodando (CORS aberto + injeção de comando no gerenciador de presença); servidor local agora só aceita conexões da própria máquina; DevTools e menu padrão desativados no app instalado.
+
 ### v1.2.4
 - 🎮 **Novo jogo/app**: GearUP Booster adicionado à biblioteca.
 
@@ -80,6 +85,11 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 ---
 
 ## 🇺🇸 English
+
+### v1.2.5
+- 🐛 **Fix**: the login screen no longer flashes on startup for already signed-in users (a splash covers the session check).
+- 🔒 **Mandatory update**: once a new version finishes downloading on its own, the app now requires a restart before you can keep using it (instead of just a dismissible banner).
+- 🛡️ **Security**: closed a flaw that allowed running commands on the PC via requests from any website open in the browser while Gem+ was running (open CORS + command injection in the presence manager); the local server now only accepts connections from the machine itself; DevTools and the default menu are disabled in the installed app.
 
 ### v1.2.4
 - 🎮 **New game/app**: GearUP Booster added to the library.
