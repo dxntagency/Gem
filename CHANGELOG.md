@@ -10,6 +10,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 
 ## 🇧🇷 Português
 
+### v1.2.6
+- 🎮 **Novo jogo**: STALZONE adicionado à biblioteca.
+
 ### v1.2.5
 - 🐛 **Correção**: a tela de login não pisca mais na abertura do app pra quem já está autenticado (splash cobre a checagem de sessão).
 - 🔒 **Atualização obrigatória**: quando uma nova versão termina de baixar sozinha, o app agora exige reiniciar antes de continuar usando (em vez de só avisar num banner dispensável).
@@ -85,6 +88,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 ---
 
 ## 🇺🇸 English
+
+### v1.2.6
+- 🎮 **New game**: STALZONE added to the library.
 
 ### v1.2.5
 - 🐛 **Fix**: the login screen no longer flashes on startup for already signed-in users (a splash covers the session check).
