@@ -10,6 +10,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 
 ## 🇧🇷 Português
 
+### v1.2.7
+- 🎮 **Novo jogo**: RuneScape adicionado à biblioteca.
+
 ### v1.2.6
 - 🎮 **Novo jogo**: STALZONE adicionado à biblioteca.
 
@@ -88,6 +91,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 ---
 
 ## 🇺🇸 English
+
+### v1.2.7
+- 🎮 **New game**: RuneScape added to the library.
 
 ### v1.2.6
 - 🎮 **New game**: STALZONE added to the library.
