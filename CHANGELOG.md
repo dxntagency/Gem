@@ -10,6 +10,11 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 
 ## 🇧🇷 Português
 
+### v1.2.8
+- 🎮 **Novo jogo**: Battlefield 6 adicionado à biblioteca.
+- 🖼️ **Correção**: capa do Battlefield 6 ajustada (a Steam ainda não tinha publicado a arte padrão para esse jogo, o que deixava o card em branco).
+- 🗑️ **Removido**: GearUP Booster tirado da biblioteca.
+
 ### v1.2.7
 - 🎮 **Novo jogo**: RuneScape adicionado à biblioteca.
 
@@ -91,6 +96,11 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 ---
 
 ## 🇺🇸 English
+
+### v1.2.8
+- 🎮 **New game**: Battlefield 6 added to the library.
+- 🖼️ **Fix**: adjusted Battlefield 6's cover art (Steam hadn't published the default artwork for this game yet, leaving the card blank).
+- 🗑️ **Removed**: GearUP Booster removed from the library.
 
 ### v1.2.7
 - 🎮 **New game**: RuneScape added to the library.
