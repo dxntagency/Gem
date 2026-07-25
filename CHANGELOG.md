@@ -10,6 +10,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 
 ## 🇧🇷 Português
 
+### v1.2.9
+- 🎮 **Novo jogo**: Umamusume: Pretty Derby adicionado à biblioteca.
+
 ### v1.2.8
 - 🎮 **Novo jogo**: Battlefield 6 adicionado à biblioteca.
 - 🖼️ **Correção**: capa do Battlefield 6 ajustada (a Steam ainda não tinha publicado a arte padrão para esse jogo, o que deixava o card em branco).
@@ -96,6 +99,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 ---
 
 ## 🇺🇸 English
+
+### v1.2.9
+- 🎮 **New game**: Umamusume: Pretty Derby added to the library.
 
 ### v1.2.8
 - 🎮 **New game**: Battlefield 6 added to the library.
