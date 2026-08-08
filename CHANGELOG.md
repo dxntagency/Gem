@@ -10,6 +10,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 
 ## 🇧🇷 Português
 
+### v1.2.10
+- 🎮 **Novos jogos**: Ragnarok: The New World e EVE Online adicionados à biblioteca.
+
 ### v1.2.9
 - 🎮 **Novo jogo**: Umamusume: Pretty Derby adicionado à biblioteca.
 
@@ -99,6 +102,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 ---
 
 ## 🇺🇸 English
+
+### v1.2.10
+- 🎮 **New games**: Ragnarok: The New World and EVE Online added to the library.
 
 ### v1.2.9
 - 🎮 **New game**: Umamusume: Pretty Derby added to the library.
