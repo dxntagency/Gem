@@ -10,6 +10,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 
 ## 🇧🇷 Português
 
+### v1.2.11
+- 🎮 **Novos jogos**: MARVEL SNAP, Albion Online e Dragon's Dogma: Dark Arisen adicionados à biblioteca.
+
 ### v1.2.10
 - 🎮 **Novos jogos**: Ragnarok: The New World e EVE Online adicionados à biblioteca.
 
@@ -102,6 +105,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 ---
 
 ## 🇺🇸 English
+
+### v1.2.11
+- 🎮 **New games**: MARVEL SNAP, Albion Online and Dragon's Dogma: Dark Arisen added to the library.
 
 ### v1.2.10
 - 🎮 **New games**: Ragnarok: The New World and EVE Online added to the library.
