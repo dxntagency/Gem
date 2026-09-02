@@ -10,6 +10,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 
 ## 🇧🇷 Português
 
+### v1.2.12
+- 🎮 **Novo jogo**: Dragon's Dogma II adicionado à biblioteca.
+
 ### v1.2.11
 - 🎮 **Novos jogos**: MARVEL SNAP, Albion Online e Dragon's Dogma: Dark Arisen adicionados à biblioteca.
 
@@ -105,6 +108,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 ---
 
 ## 🇺🇸 English
+
+### v1.2.12
+- 🎮 **New game**: Dragon's Dogma II added to the library.
 
 ### v1.2.11
 - 🎮 **New games**: MARVEL SNAP, Albion Online and Dragon's Dogma: Dark Arisen added to the library.
