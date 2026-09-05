@@ -26,7 +26,7 @@
 O **Gem+** é um aplicativo desktop que **simula o tempo de execução de jogos** para ajudar você a concluir as **missões do Discord Quests** — sem o trabalho de instalar vários jogos pesados. A simulação roda localmente, em segundo plano, e você pode até fechar o launcher.
 
 ### ✨ Recursos
-- 🎮 **Mais de 60 jogos** prontos (FPS, MMO, Anime/Gacha, Survival, Indie e mais).
+- 🎮 **Mais de 120 jogos** prontos (FPS, MMO, Anime/Gacha, Survival, Indie e mais).
 - ⏱️ **Quests de 15 minutos** com progresso em tempo real.
 - 🕹️ **Roda em segundo plano** — inicie e siga fazendo outras coisas.
 - 🔐 **Sua conta** com login por e-mail/senha, **Google** ou **Discord**.
@@ -51,7 +51,7 @@ O **Gem+** é um aplicativo desktop que **simula o tempo de execução de jogos*
 **Gem+** is a desktop app that **simulates game runtime** to help you complete **Discord Quests** — without the hassle of installing several heavy games. The simulation runs locally, in the background, and you can even close the launcher.
 
 ### ✨ Features
-- 🎮 **60+ ready-to-use games** (FPS, MMO, Anime/Gacha, Survival, Indie and more).
+- 🎮 **120+ ready-to-use games** (FPS, MMO, Anime/Gacha, Survival, Indie and more).
 - ⏱️ **15-minute Quests** with real-time progress.
 - 🕹️ **Runs in the background** — start it and carry on.
 - 🔐 **Your account** with email/password, **Google** or **Discord** login.
