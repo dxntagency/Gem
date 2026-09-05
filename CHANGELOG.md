@@ -10,6 +10,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 
 ## 🇧🇷 Português
 
+### v1.2.14
+- 🎮 **Novo jogo**: Onimusha: Way of the Sword adicionado à biblioteca.
+
 ### v1.2.13
 - 🐛 **Correção**: se o Gem+ for encerrado à força (queda, desligamento abrupto ou fim de processo), as presenças que ficavam rodando soltas agora são encerradas sozinhas na próxima abertura. Antes elas continuavam aparecendo no Discord e não havia como desligá-las pelo app.
 
@@ -111,6 +114,9 @@ Launcher para gerenciar a presença de jogos locais de forma automática, leve e
 ---
 
 ## 🇺🇸 English
+
+### v1.2.14
+- 🎮 **New game**: Onimusha: Way of the Sword added to the library.
 
 ### v1.2.13
 - 🐛 **Fix**: if Gem+ is force-closed (crash, abrupt shutdown or killed process), leftover presences that kept running are now shut down automatically on the next launch. Before, they stayed visible on Discord with no way to turn them off from the app.
